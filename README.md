@@ -16,6 +16,6 @@ This web application fetches real-time weather data from any available weather A
 
   ![image_alt](https://github.com/architadu/weather-app/blob/main/w1.png?raw=true)
   ![image_alt](https://github.com/architadu/weather-app/blob/main/w2.png?raw=true)
-  ![image_alt]()
+  ![image_alt](https://github.com/architadu/weather-app/blob/main/w3.png?raw=true)
   ![image_alt]()
 
