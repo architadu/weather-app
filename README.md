@@ -15,7 +15,7 @@ This web application fetches real-time weather data from any available weather A
 + The app features a clean and intuitive interface, making it easy for users to interact with and retrieve weather information.
 
   ![image_alt](https://github.com/architadu/weather-app/blob/main/w1.png?raw=true)
-  ![image_alt]()
+  ![image_alt](https://github.com/architadu/weather-app/blob/main/w2.png?raw=true)
   ![image_alt]()
   ![image_alt]()
 
