@@ -14,3 +14,8 @@ This web application fetches real-time weather data from any available weather A
 + Provides feedback to users if they enter an invalid city name or if the weather data cannot be fetched due to network issues or incorrect API configuration.
 + The app features a clean and intuitive interface, making it easy for users to interact with and retrieve weather information.
 
+  ![image_alt]()
+  ![image_alt]()
+  ![image_alt]()
+  ![image_alt]()
+
