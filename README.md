@@ -7,3 +7,6 @@ This web application fetches real-time weather data from any available weather A
 + CSS (Cascading Style Sheets)
 + JavaScript
 + Weather API
+
+###Features
+
